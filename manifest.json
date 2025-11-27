@@ -27,7 +27,7 @@
   {
     "symbol": "DCR",
     "name": "Decred",
-    "color": "#2ed6a1"
+    "color": "#2970FF"
   },
   {
     "symbol": "DOGE",
@@ -82,7 +82,7 @@
   {
     "symbol": "SOL",
     "name": "Solana",
-    "color": "#66f9a1"
+    "color": "#9945FF"
   },
   {
     "symbol": "STX",
@@ -117,7 +117,7 @@
   {
     "symbol": "XTZ",
     "name": "Tezos",
-    "color": "#a6e000"
+    "color": "#0F61FF"
   },
   {
     "symbol": "APT",
