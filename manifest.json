@@ -50,9 +50,19 @@
     "color": "#42c1ca"
   },
   {
+    "symbol": "FLR",
+    "name": "Flare",
+    "color": "#E62058"
+  },
+  {
     "symbol": "GRT",
     "name": "The Graph",
     "color": "#5942cc"
+  },
+  {
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "color": "#072723"
   },
   {
     "symbol": "ICP",
@@ -90,6 +100,11 @@
     "color": "#5546ff"
   },
   {
+    "symbol": "SUI",
+    "name": "Sui",
+    "color": "#6FBCF0"
+  },
+  {
     "symbol": "THETA",
     "name": "Theta Network",
     "color": "#2ab8e6"
@@ -103,6 +118,16 @@
     "symbol": "UNI",
     "name": "Uniswap",
     "color": "#ff007a"
+  },
+  {
+    "symbol": "WLD",
+    "name": "World",
+    "color": "#000000"
+  },
+  {
+    "symbol": "WLFI",
+    "name": "World Liberty Finance",
+    "color": "#e7ac08"
   },
   {
     "symbol": "XLM",
