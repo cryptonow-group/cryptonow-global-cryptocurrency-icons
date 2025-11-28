@@ -60,6 +60,11 @@
     "color": "#5942cc"
   },
   {
+    "symbol": "GT",
+    "name": "Gate",
+    "color": "#0067ff"
+  },
+  {
     "symbol": "HYPE",
     "name": "Hyperliquid",
     "color": "#072723"
@@ -70,6 +75,16 @@
     "color": "#292a2e"
   },
   {
+	"symbol": "INJ",
+    "name": "Injective",
+    "color": "#4D3DFF"
+  },
+    {
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "color": "#0085ff"
+  },
+  {
     "symbol": "LINK",
     "name": "ChainLink",
     "color": "#2a5ada"
@@ -78,6 +93,21 @@
     "symbol": "LTC",
     "name": "Litecoin",
     "color": "#bfbbbb"
+  },
+  {
+    "symbol": "OP",
+    "name": "Optimism",
+    "color": "#FF0420"
+  },
+  {
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "color": "#29296E"
+  },
+  {
+    "symbol": "RENDER",
+    "name": "Render",
+    "color": "cf1011ff"
   },
   {
     "symbol": "QNT",
